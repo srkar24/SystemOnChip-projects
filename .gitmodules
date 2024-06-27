@@ -1,0 +1,18 @@
+[submodule "tic-tac-toe-on-RPiPico"]
+	path = tic-tac-toe-on-RPiPico
+	url = https://github.com/srkar24/tic-tac-toe-on-RPiPico.git
+[submodule "simon-game-on-RPiPico"]
+	path = simon-game-on-RPiPico
+	url = https://github.com/srkar24/simon-game-on-RPiPico.git
+[submodule "FreeRTOS"]
+	path = FreeRTOS
+	url = https://github.com/srkar24/FreeRTOS.git
+[submodule "zynq-uart-i2c"]
+	path = zynq-uart-i2c
+	url = https://github.com/srkar24/zynq-uart-i2c.git
+[submodule "pio-RPiPico"]
+	path = pio-RPiPico
+	url = https://github.com/srkar24/pio-RPiPico.git
+[submodule "stm32-peripherals"]
+	path = stm32-peripherals
+	url = https://github.com/srkar24/stm32-peripherals.git
