@@ -1,0 +1,1 @@
+Showcases SOC projects using C/C++ on the microcontrollers such as STM32 L476RTG Nucleo and Raspberry Pi Pico, Zybo Z7-10/20 FPGA dev board for hardware and Xilinx Vivado, STM32 CubeIDE, Xilinx Vitis used for software.  
